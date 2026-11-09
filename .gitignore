@@ -1,0 +1,27 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Python virtual environments
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+
+# Logs and generated reports
+logs/
+execution_dashboard.html
+execution_report.json
+
+# Generated ZIP files
+*.zip

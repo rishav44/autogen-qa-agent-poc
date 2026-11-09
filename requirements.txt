@@ -1,0 +1,9 @@
+ollama
+python-dotenv
+fastapi
+uvicorn
+pydantic
+pytest
+requests
+openpyxl
+pytest
